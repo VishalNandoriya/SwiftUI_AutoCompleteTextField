@@ -10,4 +10,4 @@ This SwiftUI-AutoCompleteTextField demonstrates the fundamental concepts and fea
 
 | Demo                                                                      |  Renderings                                                                                                        
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  
-| [SwiftUI_AutoCompleteTextField           ](SwiftUI_AutoCompleteTextField)           |  ![SwiftUI_AutoCompleteTextField            ](SwiftUI_AutoCompleteTextField/SwiftUI_AutoCompleteTextField.gif)     
+| [SwiftUI_AutoCompleteTextField           ](SwiftUI_AutoCompleteTextField)           |  ![SwiftUI_AutoCompleteTextField            ](SwiftUI_AutoCompleteTextField.gif)     
