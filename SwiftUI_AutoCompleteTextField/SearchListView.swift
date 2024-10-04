@@ -20,10 +20,12 @@ struct SearchListView: View {
                         HStack {
                             Text("\(suggestion)").foregroundStyle(.black)
                             Spacer()
-                        }.frame(height: cellHeight).padding(.horizontal)
+                        }.contentShape(Rectangle())
+                        .frame(height: cellHeight).padding(.horizontal)
                             .onTapGesture {
                                 completionHandler?(suggestion)
                             }
+                            
                         Divider()
                     }
                 }
